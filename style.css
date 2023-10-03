@@ -1,0 +1,26 @@
+img{
+    border: 10px solid wheat;
+
+    
+}
+html{
+    background-color: black;
+    text-align: center;
+}
+h1,h3{
+    color: aliceblue;
+}
+
+.poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+  }
+  .motivation-img {
+    border: 5px solid white;
+    width: 100%;
+  }
+  
